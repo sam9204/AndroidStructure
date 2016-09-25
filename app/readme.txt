@@ -1,0 +1,10 @@
+1.activity:按模块拆分,将不同模块的activity划分到不同的包下。
+2.adapter:存放所有的适配器
+3.bean:存放实体类
+4.db:数据库相关逻辑的封装
+5.engine:存放业务相关的类
+6.widget:存放自定义控件
+7.utils:存放所有的公用方法
+8.interfaces:存放所有的接口,命名以"I"作为开头
+9.listener:存放所有的监听器,命名以"On"作为开头
+10.base:存放Activity\Fragment\Application等基类
