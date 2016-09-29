@@ -8,6 +8,6 @@ import com.androidlib.activity.BaseActivity;
  * Created by cws on 16/9/25.
  */
 
-public class AppBaseActivity extends BaseActivity {
+public abstract class AppBaseActivity extends BaseActivity {
 
 }
